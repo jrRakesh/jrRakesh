@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,github,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,c,cpp" />
     
 </a>
 </p>

@@ -18,9 +18,6 @@
 
 </p>
 
-<b>My GitHub Stats </b>
-
-![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrRakesh&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jrRakesh&theme=omni)](https://git.io/streak-stats)
 

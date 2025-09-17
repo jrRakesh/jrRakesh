@@ -18,9 +18,6 @@
 
 </p>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jrRakesh&theme=omni)](https://git.io/streak-stats)
-
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <a href="https://github.com/jrRakesh-readme-activity-graph"><img alt="Rakesh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=jrRakesh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
